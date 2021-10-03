@@ -13,12 +13,5 @@ return [
         'database' => 'bug_tracker_testing',
         'dbuser' => 'root',
         'dbpassword' => '123456'
-    ],
-    'test2' => [
-        'driver' => 'mysql',
-        'host' => '127.0.0.1',
-        'database' => 'pouya_todolist',
-        'dbuser' => 'root',
-        'dbpassword' => ''
     ]
     ];
